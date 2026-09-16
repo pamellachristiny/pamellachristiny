@@ -29,8 +29,7 @@ jobs:
       - name: Publicar animação
         uses: crazy-max/ghaction-github-pages@v4
         with:
+          target_branch: output
           build_dir: dist
-          jekyll: false
-          build_commit_message: "chore: atualizar snake animation"
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
