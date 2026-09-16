@@ -313,44 +313,6 @@ status: construindo, aprendendo e evoluindo.
 
 <div align="center">
 
-## `◈ GitHub em números`
-
-<br>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=pamellachristiny&show_icons=true&hide_border=true&bg_color=0d0d0d&title_color=ff6fae&icon_color=ff4f9a&text_color=f5f5f5&ring_color=ff4f9a&include_all_commits=true&count_private=true&locale=pt-br"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pamellachristiny&layout=compact&hide_border=true&bg_color=0d0d0d&title_color=ff6fae&text_color=f5f5f5&langs_count=8&locale=pt-br"/>
-
-<br><br>
-
-<img src="https://streak-stats.demolab.com/?user=pamellachristiny&theme=dark&hide_border=true&background=0D0D0D&ring=FF4F9A&fire=FF6FAE&currStreakLabel=FF6FAE&sideLabels=FFFFFF&dates=AAAAAA&currStreakNum=FFFFFF&sideNums=FFFFFF" />
-
-</div>
-
----
-
-<div align="center">
-
-## `⌁ atividade`
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=pamellachristiny&bg_color=0d0d0d&color=ffb3d1&line=ff4f9a&point=ffffff&area=true&hide_border=true&custom_title=Atividade%20da%20Pamella%20no%20GitHub" width="95%" />
-
-</div>
-
----
-
-<div align="center">
-
-## `✦ conquistas`
-
-<img src="https://github-profile-trophy.vercel.app/?username=pamellachristiny&theme=onestar&no-frame=true&no-bg=true&column=7&margin-w=10&title=Stars,Commits,Repositories,PullRequest,Issues,Followers,MultiLanguage" />
-
-</div>
-
----
-
-<div align="center">
-
 ## `♡ contribution garden`
 
 <img src="https://raw.githubusercontent.com/pamellachristiny/pamellachristiny/output/github-contribution-grid-snake-dark.svg" alt="Snake animation das contribuições" width="95%" />
